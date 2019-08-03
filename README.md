@@ -6,7 +6,7 @@ Open source LM2596S-ADJ Board, designed in DipTrace CAD.
 
 ![schematic](images/schematic.png)
 
-## BOM
+## Bill of Materials
 
 * **U1** - LM2596S-ADJ/NOPB
 * **C1, C3** - CA035M0220REF-0810@YAGEO or any Electrolytic cap, surface mount / through hole, size <= 10x10mm, capacity >= 220uF, voltage => 35V
